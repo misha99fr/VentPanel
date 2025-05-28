@@ -1,6 +1,8 @@
 # VentPanel
 Панель управления вентиляции для OpenOS(OpenComputers)
 
+Также на pastebin есть: https://pastebin.com/UB2YLjfi
+
 Особенности:
 
 Подойдет GPU 1-ого уровня
