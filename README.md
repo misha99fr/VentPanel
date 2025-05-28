@@ -18,3 +18,6 @@
 При 120 градусах автоматически блокируется дверь
 
 ![image](https://github.com/user-attachments/assets/78ed56fd-57fb-444e-947f-bc932e54f1e0)
+
+![image](https://github.com/user-attachments/assets/0e94ad01-a87e-4953-a4f9-6030c67e2df1)
+
